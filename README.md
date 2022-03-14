@@ -1,21 +1,20 @@
-**JWT Authentication**
 
+# JWT Authentication
 
-**Run Locally**
-
-Clone Project
+## Clone Project
 https://github.com/akansha0009/Express_task
 
-Install dependencies
-npm install
+To install dependencies
 
-Run Locally
-npm start
+```bash
+  npm install
+```
 
-# Run server
+To run this project locally
 
-install dependencies
-npm install
+```bash
+  npm start
+```
 
-Start server
-npm start
+
+
